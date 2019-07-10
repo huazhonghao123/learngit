@@ -1,0 +1,3 @@
+Git is a version control system.
+Gmkdir learngitit is free software.
+
